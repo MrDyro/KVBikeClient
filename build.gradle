@@ -1,13 +1,15 @@
-group 'com.dyrosoft'
-version '0.0.1'
-
 apply plugin: 'java'
 
 sourceCompatibility = 1.7
 
+def versionString = '1.0'
+
+group 'com.dyrosoft'
+version versionString
+
 jar {
     baseName = 'kvbike-client'
-    version = '0.0.1'
+    version = versionString
 }
 
 repositories {
