@@ -1,6 +1,6 @@
 #KVBike Client
 
-A small client to fetch the current positions of the KVB bikes (http://www.kvb-rad.de/).
+A small client to fetch the current position of the KVB bikes (http://www.kvb-rad.de/).
 The API and the bikes are provided by nextbike (http://www.nextbike.de/).
 
 ###Technologies 
@@ -12,11 +12,11 @@ The API and the bikes are provided by nextbike (http://www.nextbike.de/).
 
 ###MASTER BRANCH
 
-
+[![Build Status](https://travis-ci.org/MrDyro/KVBikeClient.svg?branch=master)](https://travis-ci.org/MrDyro/KVBikeClient)
 
 ###DEVELOPMENT BRANCH
 
-
+[![Build Status](https://travis-ci.org/MrDyro/KVBikeClient.svg?branch=development)](https://travis-ci.org/MrDyro/KVBikeClient)
 
 License
 =======
