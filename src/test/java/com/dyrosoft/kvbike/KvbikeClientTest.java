@@ -14,13 +14,14 @@ import static org.junit.Assert.assertThat;
 public class KvbikeClientTest {
 
     @Test
-    public void testParsing() throws Exception {
+    public void testFetchAllPlaces() throws Exception {
         final KvbikeClient client = new KvbikeClient();
         final ImmutableList<Place> places = client.fetchAllPlaces()
                 .subscribeOn(Schedulers.immediate())
                 .observeOn(Schedulers.immediate())
                 .toBlocking()
                 .value();
+
         assertThat(places.isEmpty(), is(not(true)));
     }
 }

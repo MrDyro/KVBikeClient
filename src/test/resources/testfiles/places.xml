@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<markers>
+    <country name="KVB Rad Germany" country="DE" country_name="Germany" domain="kg"
+             hotline="+493069205046" lat="50.9364" lng="6.96053"
+             terms="http://www.kvb-rad.de/de/agb/" website="http://www.kvb-rad.de/" zoom="11">
+        <city name="Köln" alias="koeln" break="0" lat="50.9429" lng="6.95649" maps_icon="norisbike"
+              uid="14" zoom="12">
+            <place name="Zülpicher Platz" bike_numbers="21892,21301,21806,21253" bikes="4"
+                   lat="50.9306163084661" lng="6.940484046936035" number="4822" terminal_type="free"
+                   uid="22755"/>
+            <place name="Hauptbahnhof" bikes="0" lat="50.9429485" lng="6.958015" number="4826"
+                   spot="1" terminal_type="free" uid="35409"/>
+            <place name="Hauptbahnhof / Breslauer Platz" bike_numbers="21924" bikes="1"
+                   lat="50.94392" lng="6.959407" terminal_type="unknown" uid="193437"/>
+            <place name="BIKE 21150" bike="1" bike_numbers="21150" bikes="1" lat="50.93697498"
+                   lng="6.95488615" uid="358716"/>
+            <place name="BIKE 21119" bike="1" bike_numbers="21119" bikes="1" lat="50.91573267335441"
+                   lng="6.912670150504158" uid="359771"/>
+            <place name="Hermeskeiler Straße 16" bike="1" bike_numbers="21258" bikes="1"
+                   lat="50.917059559929" lng="6.9065444224369" uid="360466"/>
+            <place name="BIKE 21538" bike="1" bike_numbers="21538" bikes="1"
+                   lat="50.927308000322014" lng="6.979741515398474" uid="361241"/>
+            <place name="Bernhard-Letterhaus-Str. / Nikolaus-Groß-Str." bike_numbers="21126"
+                   bikes="1" lat="50.95552072542888" lng="6.953830718994141" terminal_type="unknown"
+                   uid="361299"/>
+            <place name="BIKE 21523" bike="1" bike_numbers="21523" bikes="1" lat="50.89740658410187"
+                   lng="6.975274538412882" uid="364352"/>
+            <place name="Deutz-Mülheimer Straße 310" bike="1" bike_numbers="21476,21332,21749"
+                   bikes="3" lat="50.960658936913" lng="6.9968246230635" uid="364652"/>
+            <place name="Kaltenbornweg 1" bike="1" bike_numbers="21462,21069" bikes="2"
+                   lat="50.926085780333" lng="6.9786444652325" uid="366785"/>
+            <place name="Deutz-Kalker Straße" bike="1" bike_numbers="21724" bikes="1"
+                   lat="50.936475631149" lng="6.9860718520682" uid="367344"/>
+            <place name="BIKE 21633" bike="1" bike_numbers="21633" bikes="1"
+                   lat="50.943902433663816" lng="6.958958939108351" uid="369803"/>
+            <place name="Deutz-Mülheimer Straße 290" bike="1" bike_numbers="21192,21829,21706"
+                   bikes="3" lat="50.959618269544" lng="6.9960278255155" uid="369947"/>
+            <place name="BIKE 21568" bike="1" bike_numbers="21568" bikes="1" lat="50.91769372861542"
+                   lng="6.9081390334923976" uid="370180"/>
+            <place name="Deutz-Kalker Straße" bike="1" bike_numbers="21481" bikes="1"
+                   lat="50.936536084825" lng="6.9859434020088" uid="372653"/>
+            <place name="BIKE 21273" bike="1" bike_numbers="21273" bikes="1" lat="50.9170422297867"
+                   lng="6.906691034310815" uid="374799"/>
+            <place name="BIKE 21221" bike="1" bike_numbers="21221" bikes="1"
+                   lat="50.911774834372586" lng="6.924928757296869" uid="377662"/>
+            <place name="Alarichstraße 1" bike="1" bike_numbers="21135" bikes="1"
+                   lat="50.934363174437" lng="6.9776119480513" uid="378104"/>
+            <place name="BIKE 21720" bike="1" bike_numbers="21720" bikes="1" lat="50.94259042356419"
+                   lng="6.957771982342343" uid="378205"/>
+            <place name="BIKE 21286" bike="1" bike_numbers="21286" bikes="1" lat="50.89715637963985"
+                   lng="6.96615877910524" uid="378295"/>
+            <place name="Breslauer Platz" bike="1" bike_numbers="21403,21171,21104" bikes="3"
+                   lat="50.943955619867" lng="6.9590639014108" uid="378540"/>
+            <place name="BIKE 21815" bike="1" bike_numbers="21815" bikes="1" lat="50.96512105884292"
+                   lng="7.010086266413593" uid="379447"/>
+            <place name="BIKE 21579" bike="1" bike_numbers="21579" bikes="1"
+                   lat="50.989240002818406" lng="6.943888524547219" uid="383008"/>
+            <place name="Gießener Straße 39-45" bike="1" bike_numbers="21908" bikes="1"
+                   lat="50.93725629437" lng="6.9941111032554" uid="383537"/>
+            <place name="BIKE 21828" bike="1" bike_numbers="21828,21541" bikes="2"
+                   lat="50.939109880763" lng="6.979032180833" uid="388753"/>
+            <place name="Dürener Straße" bike="1" bike_numbers="21133" bikes="1"
+                   lat="50.927837999167" lng="6.9090803363889" uid="389772"/>
+            <place name="BIKE 21907" bike="1" bike_numbers="21907" bikes="1" lat="50.90056277849228"
+                   lng="6.947576012692633" uid="392475"/>
+            <place name="BIKE 21322" bike="1" bike_numbers="21322" bikes="1"
+                   lat="50.901365797230525" lng="6.939799233740422" uid="392828"/>
+            <place name="Heidelberger Straße 23" bike="1" bike_numbers="21839,21181" bikes="2"
+                   lat="50.950998331256" lng="7.004354432549" uid="393097"/>
+            <place name="BIKE 21796" bike="1" bike_numbers="21796" bikes="1" lat="50.90196655358679"
+                   lng="6.9365513301936685" uid="393348"/>
+            <place name="BIKE 21886" bike="1" bike_numbers="21886" bikes="1" lat="50.95011043577445"
+                   lng="6.959491443648552" uid="395574"/>
+            <place name="Zülpicher Straße 394" bike="1" bike_numbers="21025" bikes="1"
+                   lat="50.919365303527" lng="6.9080060989399" uid="400553"/>
+            <place name="Neue Kempener Straße 220" bike="1" bike_numbers="21064,21518" bikes="2"
+                   lat="50.97238232215" lng="6.9423811668343" uid="422131"/>
+            <place name="BIKE 21088" bike="1" bike_numbers="21088" bikes="1"
+                   lat="50.907810589257224" lng="6.929166649850951" uid="430468"/>
+            <place name="KVB Hauptverwaltung" bike_numbers="21101,21893" bikes="2"
+                   lat="50.93883137313776" lng="6.906269788742065" number="4821" spot="1"
+                   terminal_type="character" uid="430479"/>
+            <place name="Hst. Florastraße (Nippes)" bike_numbers="21402" bikes="1"
+                   lat="50.96490036297599" lng="6.953530311584473" number="4833"
+                   terminal_type="free" uid="430584"/>
+            <place name="Deutz-Mülheimer Straße 195a" bike="1" bike_numbers="21877" bikes="1"
+                   lat="50.959063993743" lng="6.9954300286031" uid="432052"/>
+            <place name="Sachsenring / Kartäuserhof" bike_numbers="21831" bikes="1" lat="50.9225"
+                   lng="6.956251" terminal_type="unknown" uid="436207"/>
+            <place name="Neumarkt / Fleischmengergasse" bike_numbers="21665" bikes="1"
+                   lat="50.935339" lng="6.949063" terminal_type="unknown" uid="439276"/>
+            <place name="Hst. Zollstockgürtel " bike_numbers="21778" bikes="1" lat="50.905446"
+                   lng="6.942148" terminal_type="unknown" uid="439713"/>
+            <place name="BIKE 21420" bike="1" bike_numbers="21420" bikes="1"
+                   lat="50.950123113245624" lng="6.959499675518912" uid="439845"/>
+            <place name="BIKE 21903" bike="1" bike_numbers="21903" bikes="1" lat="50.939394934362"
+                   lng="6.9790728562179" uid="441906"/>
+            <place name="BIKE 21777" bike="1" bike_numbers="21777" bikes="1" lat="50.89739795961827"
+                   lng="6.975188113654145" uid="441929"/>
+            <place name="Wilhelmstr. / Christinastr." bike_numbers="21871" bikes="1" lat="50.962749"
+                   lng="6.952717" terminal_type="unknown" uid="446137"/>
+        </city>
+    </country>
+</markers>

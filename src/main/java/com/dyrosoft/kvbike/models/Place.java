@@ -1,24 +1,34 @@
 package com.dyrosoft.kvbike.models;
 
+import com.google.common.base.Optional;
+
 import org.simpleframework.xml.Attribute;
 import org.simpleframework.xml.Root;
 
 @Root(name = "place", strict = false)
 public class Place {
 
-    @Attribute private int uid;
+    @Attribute(required = false) private Integer bike;
+    @Attribute(required = false, name = "bike_numbers") private String bikeNumber;
+    @Attribute private String bikes;
     @Attribute private float lat;
     @Attribute private float lng;
     @Attribute private String name;
-    @Attribute private int spot;
-    @Attribute private int number;
-    @Attribute private String bikes;
-    @Attribute private int bike;
-    @Attribute(name = "terminal_type") private String terminalType;
-    @Attribute(name = "bike_numbers") private String bikeNumber;
+    @Attribute(required = false) private Integer number;
+    @Attribute(required = false) private Integer spot;
+    @Attribute(required = false, name = "terminal_type") private String terminalType;
+    @Attribute private int uid;
 
-    public int getUid() {
-        return uid;
+    public Optional<Integer> getBike() {
+        return Optional.fromNullable(bike);
+    }
+
+    public Optional<String> getBikeNumber() {
+        return Optional.fromNullable(bikeNumber);
+    }
+
+    public String getBikes() {
+        return bikes;
     }
 
     public float getLat() {
@@ -33,27 +43,19 @@ public class Place {
         return name;
     }
 
-    public int getSpot() {
-        return spot;
+    public Optional<Integer> getNumber() {
+        return Optional.fromNullable(number);
     }
 
-    public int getNumber() {
-        return number;
+    public Optional<Integer> getSpot() {
+        return Optional.fromNullable(spot);
     }
 
-    public String getBikes() {
-        return bikes;
+    public Optional<String> getTerminalType() {
+        return Optional.fromNullable(terminalType);
     }
 
-    public int getBike() {
-        return bike;
-    }
-
-    public String getTerminalType() {
-        return terminalType;
-    }
-
-    public String getBikeNumber() {
-        return bikeNumber;
+    public int getUid() {
+        return uid;
     }
 }

@@ -7,7 +7,7 @@ import retrofit2.converter.simplexml.SimpleXmlConverterFactory;
 
 public final class ApiProvider {
 
-    private static final String BASE_URL = "http://www.api.nextbike.net/";
+    private static final String BASE_URL = "http://api.nextbike.net/";
 
     private ApiProvider() {
     }
